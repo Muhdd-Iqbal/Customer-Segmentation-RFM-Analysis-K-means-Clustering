@@ -55,8 +55,12 @@ The dataset used in this project is an online retail dataset from UCI Machine Le
 ## 📈 Key Results
 
 - Optimal number of clusters found: **K = 3**
-- Cluster 1: Low spenders, active on weekends  
-- Cluster 2: Inactive customers  
+- Cluster 1: Low spenders, active on weekends
+  <img width="639" height="578" alt="image" src="https://github.com/user-attachments/assets/30178b2a-3b87-4871-a328-2f1d587392f5" />
+
+- Cluster 2: Inactive customers
+
+  
 - Cluster 3: High-value customers – frequent, high spending
 
 Notes: The model can still be improved to create clusters that are more distinctly separated.
