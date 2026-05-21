@@ -62,6 +62,8 @@ Optimal number of clusters found: **K = 3**
   <img width="639" height="578" alt="image" src="https://github.com/user-attachments/assets/08e58a39-b284-4a7e-b3c1-a7c41c7cc501" />
   
 * Cluster 3: High-value customers – frequent, high spending
+  <img width="639" height="578" alt="image" src="https://github.com/user-attachments/assets/129d25ad-2c59-4bfb-b4f7-201ae25600cc" />
+
 
 Notes: The model can still be improved to create clusters that are more distinctly separated.
 For example by experimenting with different clustering parameters or algorithms to reduce similarities in certain customer characteristics.
@@ -78,11 +80,12 @@ For example by experimenting with different clustering parameters or algorithms 
 
 ## 🛠️ Tech Stack
 
-- Python  
+- Python
+- Google Colab
+- Spark SQL
 - Pandas
 - NumPy  
 - Scikit-learn  
 - Plotly 
-- Google Colab
-- Spark SQL
+
 
